@@ -1,3 +1,5 @@
+Initialize the node js by running the command:
+init -y
 To run the server program:
 1.Open a terminal and navigate to the server directory:
 cd AuthInMern/server
